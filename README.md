@@ -1,5 +1,5 @@
 ![DWH SQL drawio](https://github.com/user-attachments/assets/8fd70213-8e2b-4140-8702-f91b0d142cd6)# SQL---DWH---Project
-Welcome to the **Data WareHouse and Analytics Projects** Repository
+Welcome to the **Data WareHouse and Analytics Projects Repository
 This projects demonstrates a comprehensive data warehousing and analytics solution , from buildng a data warehouse to generating a actionable insights. 
 Designed a portfolio project highlights industry best practices in data engineering and analytics.
 
